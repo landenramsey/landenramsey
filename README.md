@@ -1,6 +1,6 @@
-# Hi there, I'm Landen Ramsey 👋
+#Landen Ramsey 
 
-## 🎓 Computer Science & Mathematics Student | Full-Stack Developer | AI Enthusiast
+##Computer Science & Mathematics Student | Full-Stack Developer | AI Enthusiast
 
 **University of North Carolina Wilmington** | Expected Graduation: May 2027  
 *B.S. Computer Science (Software Engineering) | B.S. Mathematics (Data Science)*
@@ -44,9 +44,9 @@ I'm an undergraduate student researcher and full-stack developer passionate abou
 
 ---
 
-## 🚀 Featured Projects
+##Featured Projects
 
-### 🔍 ScamBait Web Application
+###ScamBait Web Application
 **Sept 2025 - Present** | [Repository](https://github.com/landenramsey/ScamBait)
 
 Full-stack web application helping elderly users detect email and text scams using AI-driven detection.
@@ -60,7 +60,7 @@ Full-stack web application helping elderly users detect email and text scams usi
 
 ---
 
-### 📚 UNCW Study Assistant
+###UNCW Study Assistant
 **Nov 2025 - Present** | [View on GitHub](https://github.com/landenramsey/StudyAssistant)
 
 AI-powered study assistant that processes class documents and generates interactive learning materials.
@@ -76,7 +76,7 @@ AI-powered study assistant that processes class documents and generates interact
 
 ---
 
-### 📧 Spam Email Web Extension
+###Spam Email Web Extension
 **Nov 2025 - Present** | [View on GitHub](https://github.com/landenramsey/SpamEmailDetector)
 
 AI-powered spam detection system with 97% accuracy using PyTorch LSTM for real-time email classification.
@@ -92,7 +92,7 @@ AI-powered spam detection system with 97% accuracy using PyTorch LSTM for real-t
 
 ---
 
-## 📖 Coursework Highlights
+##Coursework Highlights
 
 - Linear Algebra
 - Data Structures & Algorithms
@@ -105,7 +105,7 @@ AI-powered spam detection system with 97% accuracy using PyTorch LSTM for real-t
 
 ---
 
-## 🤝 Leadership & Activities
+##Leadership & Activities
 
 - **Philanthropy and Community Service Executive** - Pi Kappa Alpha Fraternity (Jan 2025 - Dec 2025)
 - **Club Tennis Member** - UNCW Athletics (Sept 2024 - Present)

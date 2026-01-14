@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm an undergraduate student researcher and full-stack developer passionate about building intelligent, scalable software solutions. Currently working on AI-powered applications that solve real-world problems, from scam detection to educational tools. I love combining my expertise in software engineering and data science to create impactful projects.
 
@@ -112,7 +112,7 @@ AI-powered spam detection system with 97% accuracy using PyTorch LSTM for real-t
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/landen-ramsey)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/landenramsey)

@@ -44,7 +44,7 @@ Git • GitHub • GitHub Actions • Jira • npm • VS Code • Cursor
 
 ## Currently Working On
 
-* 🤖 AI Enablement and Platform Engineering initiatives at Jack Henry
+* 🤖 AI Enablement initiatives at Jack Henry
 * 🏋️ HawksRFit fitness application
 * ☁️ Cloud-native development and deployment workflows
 * 🚀 Building scalable full-stack applications
